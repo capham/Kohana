@@ -1,2 +1,2 @@
-Kohanavn
+Kohana
 ======
